@@ -1,14 +1,15 @@
 ## Functionalities
 A multithreaded web crawler in Java that starts from a given base_url and traverses all linked pages to search for a specific keyword
 
+
 ### Features
 
-[x] Web crawling
-[x] Url queue
-[x] Page content Cache
-[x] Decoupled code for crawler
-[ ] Improve keyword search?
-[ ] Add a limit for the crawling
+- [x] Web crawling
+- [x] Url queue
+- [x] Page content Cache
+- [x] Decoupled code for crawler
+- [ ] Improve keyword search?
+- [ ] Add a limit for the crawling
 
 ### How to run
 ###### Build the docker file
